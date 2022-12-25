@@ -8,7 +8,7 @@
     /* background-image: fun.jpg; */
     background: url(fun.jpg);
     background-repeat: no-repeat;
-    background-size: 100rem 45rem;
+    background-size: 100%;
     /* background-size: ; */
   }
   .container {
